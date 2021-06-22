@@ -1,0 +1,348 @@
+			********* New Patch: 0.0.38 }} *********
+			Title: fixed aspect ratio crash CU-hx5x4w
+			Description: 
+			Merged at: 2021-04-28
+			Merged Commits: 
+				2021-04-28 fixed aspect ratio crash CU-hx5x4w
+
+				********* New Patch: 0.0.37 }} *********
+			Title: Made Spout Array BP read and Write CU-h35h9d
+			Description: 
+			Merged at: 2021-04-26
+			Merged Commits: 
+				2021-04-26 CI: Patch Update: 0.0.36
+
+				********* New Patch: 0.0.36 }} *********
+			Title: autoGen Standalone Name CU-h33bqc
+			Description: 
+			Merged at: 2021-04-26
+			Merged Commits: 
+				2021-04-26 autoGen Standalone Name CU-h33bqc
+				2021-04-26 CI: Patch Update: 0.0.35
+
+				********* New Patch: 0.0.35 }} *********
+			Title: blocked all actors from working if user not logged in CU-hk2h5y
+			Description: 
+			Merged at: 2021-04-26
+			Merged Commits: 
+				2021-04-26 blocked all actors from working if user not logged in
+
+				********* New Patch: 0.0.34 }} *********
+			Title: fixed dangling server auth
+			Description: 
+			Merged at: 2021-04-26
+			Merged Commits: 
+				2021-04-26 fixed dangling server auth
+
+				********* New Patch: 0.0.33 }} *********
+			Title: removed basic cam but kept reciever CU-hf33rc
+			Description: 
+			Merged at: 2021-04-22
+			Merged Commits: 
+				2021-04-22 removed basic cam but kept reciever CU-hf33rc
+
+				********* New Patch: 0.0.32 }} *********
+			Title: Add Public Key and AUTH URL to packaged project
+			Description: 
+			Merged at: 2021-04-22
+			Merged Commits: 
+				2021-04-22 CI: Patch Update: 0.0.31
+
+				********* New Patch: 0.0.31 }} *********
+			Title: Add the API URL to the release information
+			Description: * Also add quotation mark escapes at last minute rather than
+  infecting config files with escapes
+			Merged at: 2021-04-22
+			Merged Commits: 
+				2021-04-21 CI: Patch Update: 0.0.30
+				2021-04-21 Check env variable for empty string
+
+				********* New Patch: 0.0.30 }} *********
+			Title: updated docs link
+			Description: 
+			Merged at: 2021-04-21
+			Merged Commits: 
+				2021-04-21 updated docs link
+
+				********* New Patch: 0.0.29 }} *********
+			Title: secured textures better agains updating the resource in runtime CU-hf…
+			Description: …9m1k
+			Merged at: 2021-04-21
+			Merged Commits: 
+				2021-04-21 secured textures better agains updating the resource in runtime CU-hf9m1k
+
+				********* New Patch: 0.0.28 }} *********
+			Title: Feature/dropdown menu
+			Description: Created a nice dropdown in the tools menu so the user has access to all global plugin functionality
+			Merged at: 2021-04-21
+			Merged Commits: 
+				2021-04-21 connected to Auth tool
+				2021-04-20 CI: Patch Update: 0.0.27
+
+				********* New Patch: 0.0.27 }} *********
+			Title: Plugin auth validation
+			Description: 
+			Merged at: 2021-04-20
+			Merged Commits: 
+				2021-04-20 remove unused header, remove movement file, add back in machine key, fix package errors,
+				2021-04-20 jsonobject
+				2021-04-20 remove the magic
+				2021-04-20 Fix up plugin search name
+				2021-04-20 rename for consistency
+				2021-04-20 Telemetry
+				2021-04-20 remove switch
+				2021-04-14 auth from 360 to PRO
+
+				********* New Patch: 0.0.26 }} *********
+			Title: added tracking CU-hf4u2v
+			Description: added this functionality: https://docs.unrealengine.com/en-US/AnimatingObjects/Sequencer/HowTo/CineCameraActors/index.html
+			Merged at: 2021-04-20
+			Merged Commits: 
+				2021-04-20 added tracking CU-hf4u2v
+
+				********* New Patch: 0.0.25 }} *********
+			Title: check for editorpreview
+			Description: #7tvyht
+			Merged at: 2021-04-14
+			Merged Commits: 
+				2021-04-14 check for editorpreview
+
+				********* New Patch: 0.0.24 }} *********
+			Title: Update PRO release script to strip private files before zip
+			Description: 
+			Merged at: 2021-04-14
+			Merged Commits: 
+				2021-04-13 Update PRO release script to strip private files before zip
+
+				********* New Patch: 0.0.23 }} *********
+			Title: Remove unused parameters, Fix crash if texture size too big
+			Description: #h32qx7
+			Merged at: 2021-04-13
+			Merged Commits: 
+				2021-04-13 Split resolution into x and y so it's clearer to the user when constrained
+				2021-04-13 Remove unused parameters, Fix crash if texture size too big
+
+				********* New Patch: 0.0.22 }} *********
+			Title: Fix/erratic active toggle
+			Description: CU-gv4281
+			Merged at: 2021-04-12
+			Merged Commits: 
+				2021-04-12 Close senders when manager is destroyed
+				2021-04-12 Refactor logic for sender
+				2021-04-09 Remove statics, assign world on first tick, check worlds against manager world type
+				2021-04-09 Stop editor class ticking when in game mode
+				2021-04-09 Fix up toggle logic, rename interface function
+
+				********* New Patch: 0.0.21 }} *********
+			Title: Return of the gamma
+			Description: 
+			Merged at: 2021-04-08
+			Merged Commits: 
+				2021-04-08 Return of the gamma
+
+				********* New Patch: 0.0.20 }} *********
+			Title: Remote master
+			Description: Merge 2D cam into PRO cam.
+
+#gh4pqv
+			Merged at: 2021-04-06
+			Merged Commits: 
+				2021-04-06 Camera name can now be changed in details panel
+				2021-04-06 CI: Patch Update: 0.0.19
+				2021-04-06 hide gamma value
+				2021-04-06 CI: Patch Update: 0.0.18
+				2021-03-31 CI: Patch Update: 0.0.17
+
+				********* New Patch: 0.0.19 }} *********
+			Title: hide gamma value
+			Description: #gh1aev
+			Merged at: 2021-04-06
+			Merged Commits: 
+				2021-04-06 hide gamma value
+
+				********* New Patch: 0.0.18 }} *********
+			Title: fixed Target Gamma CU-gh2uua
+			Description: 
+			Merged at: 2021-04-06
+			Merged Commits: 
+				2021-03-31 CI: Patch Update: 0.0.17
+
+				********* New Patch: 0.0.17 }} *********
+			Title: Reverted to TextureTargetName because CU-gh14ep CU-gh1jf8
+			Description: 
+			Merged at: 2021-03-31
+			Merged Commits: 
+				2021-03-31 re-added alpha material CU-gh1cpj
+				2021-03-31 Reverted to TextureTargetName because CU-gh14ep CU-gh1jf8
+
+				********* New Patch: 0.0.16 }} *********
+			Title: Update/1.1.13
+			Description: 
+			Merged at: 2021-03-30
+			Merged Commits: 
+				2021-03-29 CI: Patch Update: 0.0.15
+				2021-03-29 CI: Patch Update: 0.0.14
+				2021-03-29 enabled taau CU-auxm2a
+				2021-03-29 renamed texture target to render target
+				2021-03-29 Changed Spout Reciever into REceiver MAnager CU-gb1cu4
+
+				********* New Patch: 0.0.15 }} *********
+			Title: enabled taau CU-auxm2a
+			Description: 
+			Merged at: 2021-03-29
+			Merged Commits: 
+				2021-03-29 CI: Patch Update: 0.0.14
+
+				********* New Patch: 0.0.14 }} *********
+			Title: renamed texture target to render target CU-gb1d2p
+			Description: 
+			Merged at: 2021-03-29
+			Merged Commits: 
+				2021-03-29 renamed texture target to render target
+
+				********* New Patch: 0.0.13 }} *********
+			Title: added the ability to select clear colour CU-bf256b
+			Description: 
+			Merged at: 2021-03-26
+			Merged Commits: 
+				2021-03-26 CI: Patch Update: 0.0.12
+
+				********* New Patch: 0.0.12 }} *********
+			Title: Added a DLSS hook CU-ex6t7t
+			Description: Added an Screen Percentage interface to hook in DLSS
+(work only in game targets :-( )
+			Merged at: 2021-03-26
+			Merged Commits: 
+				2021-03-24 Added a DLSS hook CU-ex6t7t
+
+				********* New Patch: 0.0.11 }} *********
+			Title: added standalone name handling for safety CU-g58n2q
+			Description: Created a way of closing editor spout sender when standalone is playing in order to avoid the conflict between the two
+			Merged at: 2021-03-26
+			Merged Commits: 
+				2021-03-24 added standalone name handling for safety CU-g58n2q
+
+				********* New Patch: 0.0.10 }} *********
+			Title: made UI capture function CU-g0zn86
+			Description: 
+			Merged at: 2021-03-22
+			Merged Commits: 
+				2021-03-19 made UI capture function CU-g0zn86
+
+				********* New Patch: 0.0.9 }} *********
+			Title: Update/1.1.11
+			Description: 
+			Merged at: 2021-03-22
+			Merged Commits: 
+				2021-03-18 CI: Patch Update: 0.0.8
+				2021-03-18 closed dangling senders on empty array CU-fq279z
+				2021-03-18 moved include spout.h to SpoutInerface.cpp
+				2021-03-17 fixed missing BP resolution update CU-fv61j6
+				2021-03-15 CI: Patch Update: 0.0.7
+				2021-03-12 finished Pro Cine Cam Capture
+				2021-03-12 change spout sender to spout sender manager
+				2021-03-10 removed non-cine capture
+				2021-03-09 added a way to enable and disable cameras to save the frame ratwhen not needed
+
+				********* New Patch: 0.0.8 }} *********
+			Title: closed dangling senders on empty array CU-fq279z
+			Description: 
+			Merged at: 2021-03-18
+			Merged Commits: 
+				2021-03-18 closed dangling senders on empty array CU-fq279z
+
+				********* New Patch: 0.0.7 }} *********
+			Title: Feature/pro capture system
+			Description: Created a system for capturing scene from cine cam component and sending it on via spout sender manager
+			Merged at: 2021-03-15
+			Merged Commits: 
+				2021-03-12 finished Pro Cine Cam Capture
+				2021-03-12 change spout sender to spout sender manager
+				2021-03-10 removed non-cine capture
+				2021-03-09 fixed packaging errors
+				2021-03-08 Created first iteration of OWL Capture Cams
+
+				********* New Patch: 0.0.6 }} *********
+			Title: Update/1.1.7
+			Description: 
+			Merged at: 2021-03-08
+			Merged Commits: 
+				2021-03-08 Updated OWLSpoutSender to match updates from basic cam
+				2021-03-08 implemented more fixes ported from the pro dev
+				2021-03-05 fixed small spout bugs
+				2021-03-02 fixed a wawning log clog
+				2021-02-23 added an extra check to see if the world exists
+				2021-02-17 CI: Patch Update: 0.0.5
+				2021-02-12 fixed camer name on duplicate CU-b6ufru
+				2021-02-12 dx12 receiver
+				2021-02-12 renamed Active Senders to Active Spout Resources
+				2021-02-10 dx11 reciever
+				2021-02-11 CI: Patch Update: 0.0.4
+
+				********* New Patch: 0.0.5 }} *********
+			Title: Feature/upgrade
+			Description: Update from mainline branch
+			Merged at: 2021-02-16
+			Merged Commits: 
+				2021-02-12 fixed camer name on duplicate CU-b6ufru
+				2021-02-12 dx12 receiver
+				2021-02-12 renamed Active Senders to Active Spout Resources
+				2021-02-10 dx11 reciever
+				2021-02-11 CI: Patch Update: 0.0.4
+				2021-02-11 CI: Patch Update: 0.0.4
+				2021-02-11 fixed properites of scene capture
+
+				********* New Patch: 0.0.4 }} *********
+			Title: Update/1.1.1
+			Description: 
+			Merged at: 2021-02-11
+			Merged Commits: 
+				2021-02-11 CI: Patch Update: 0.0.4
+				2021-02-11 fixed properites of scene capture
+				2021-02-10 CI: Patch Update: 0.0.3
+
+				********* New Patch: 0.0.4 }} *********
+			Title: Update/1.1.1
+			Description: 
+			Merged at: 2021-02-11
+			Merged Commits: 
+				2021-02-11 fixed properites of scene capture
+				2021-02-10 CI: Patch Update: 0.0.3
+				2021-02-10 CI: Patch Update: 0.0.2
+
+				********* New Patch: 0.0.3 }} *********
+			Title: created sender actor CU-df4xec
+			Description: Editor time actor that can send a render target via spout.
+For example can be used with composure or Rendering Materials to Render Targets techniques  
+			Merged at: 2021-02-10
+			Merged Commits: 
+				2021-02-10 CI: Patch Update: 0.0.2
+
+				********* New Patch: 0.0.2 }} *********
+			Title: Update/1.1.0
+			Description: 
+			Merged at: 2021-02-10
+			Merged Commits: 
+				2021-02-09 added alpha maerial and some finalizing touches
+				2021-02-09 Exposed Scene Capture 2d Details
+				2021-02-09 fixed camera name update
+				2021-02-08 CI: Patch Update: 0.0.1
+				2021-02-08 fix missing pro in zip name
+				2021-02-08 CI: Engine Update: 4.26.0
+
+				********* New Patch: 0.0.1 }} *********
+			Title: fix missing pro in zip name
+			Description: 
+			Merged at: 2021-02-08
+			Merged Commits: 
+				2021-02-08 fix missing pro in zip name
+
+	********* Engine Update: 4.26.0 *********
+Title: Init/pro first commit
+Description: 
+Merged at: 2021-02-08
+Merged Commits: 
+	2021-02-08 QA PRO Init
+	2021-02-08 Initial CI scripts
+
+	
